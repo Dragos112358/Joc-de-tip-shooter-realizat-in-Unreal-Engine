@@ -10,7 +10,7 @@ Acesta este un proiect de tip Shooter dezvoltat în **Unreal Engine 5**, care pu
 * **Sistem de Vehicule:** Vehicul complet funcțional (Chaos Physics) pentru navigarea rapidă pe harta vastă.
 * **Sistem de Achievements:** Logica implementată pentru monitorizarea performanței jucătorului și deblocarea de realizări specifice în timpul sesiunii de joc.
 * **Management de Resurse:** Sistem de inventar pentru muniție, forțând jucătorul să exploreze mediul pentru supraviețuire.
-* **Level Design Avansat:** * Zonă urbană densă (peste 30 de clădiri/blocuri explorabile).
+* **Level Design Avansat:** Zonă urbană densă (peste 30 de clădiri/blocuri explorabile).
     * Relief variat: lac masiv și lanț muntos pentru gameplay vertical.
 
 ---
@@ -19,7 +19,7 @@ Acesta este un proiect de tip Shooter dezvoltat în **Unreal Engine 5**, care pu
 
 * **Motor Grafic:** Unreal Engine 5.x
 * **Limbaj principal:** C++ și Blueprints (Arhitectură hibridă)
-* **Mecanici cheie:** * Line Tracing pentru sistemul de shooting.
+* **Mecanici cheie:** Line Tracing pentru sistemul de shooting.
     * Component-based design pentru arme și vehicule.
     * Sistem de salvare (SaveGame) pentru persistența achievement-urilor.
 
