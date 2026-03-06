@@ -6,11 +6,11 @@ Acesta este un proiect de tip Shooter dezvoltat în **Unreal Engine 5**, care pu
 
 ## Funcționalități Principale (Features)
 
-* ** Arsenal Diversificat:** Sistem de luptă integrat pentru **13 arme distincte** (AK-47, SCAR, etc.), cu mecanici de recoil, damage drop-off și gestionare a muniției.
-* ** Sistem de Vehicule:** Vehicul complet funcțional (Chaos Physics) pentru navigarea rapidă pe harta vastă.
-* ** Sistem de Achievements:** Logica implementată pentru monitorizarea performanței jucătorului și deblocarea de realizări specifice în timpul sesiunii de joc.
-* ** Management de Resurse:** Sistem de inventar pentru muniție, forțând jucătorul să exploreze mediul pentru supraviețuire.
-* ** Level Design Avansat:** * Zonă urbană densă (peste 30 de clădiri/blocuri explorabile).
+* **Arsenal Diversificat:** Sistem de luptă integrat pentru **13 arme distincte** (AK-47, SCAR, etc.), cu mecanici de recoil, damage drop-off și gestionare a muniției.
+* **Sistem de Vehicule:** Vehicul complet funcțional (Chaos Physics) pentru navigarea rapidă pe harta vastă.
+* **Sistem de Achievements:** Logica implementată pentru monitorizarea performanței jucătorului și deblocarea de realizări specifice în timpul sesiunii de joc.
+* **Management de Resurse:** Sistem de inventar pentru muniție, forțând jucătorul să exploreze mediul pentru supraviețuire.
+* **Level Design Avansat:** * Zonă urbană densă (peste 30 de clădiri/blocuri explorabile).
     * Relief variat: lac masiv și lanț muntos pentru gameplay vertical.
 
 ---
