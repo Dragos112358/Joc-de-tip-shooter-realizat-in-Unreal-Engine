@@ -17,7 +17,7 @@ Acesta este un proiect de tip Shooter dezvoltat în **Unreal Engine 5**, care pu
 
 ## Detalii Tehnice
 
-* **Motor Grafic:** Unreal Engine 5.x
+* **Motor Grafic:** Unreal Engine 5.1
 * **Limbaj principal:** C++ și Blueprints (Arhitectură hibridă)
 * **Mecanici cheie:** Line Tracing pentru sistemul de shooting.
     * Component-based design pentru arme și vehicule.
